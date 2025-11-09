@@ -331,9 +331,6 @@ Board structure:
 - [Hugging Face Transformers](https://huggingface.co/docs/transformers/)
 - [Sentiment Analysis Tutorial](https://www.kaggle.com/code/prakharrathi25/sentiment-analysis-using-bert)
 
-## 📄 License
-
-[Specify license if applicable]
 
 ## 📧 Contact
 
