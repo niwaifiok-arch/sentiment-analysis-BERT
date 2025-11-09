@@ -336,8 +336,3 @@ Board structure:
 
 - **Adeniwa Olomola**: [@niwaifiok-arch](https://github.com/niwaifiok-arch)
 - **Adelewa Olomola**: [GitHub username]
-
----
-
-**Last Updated**: November 6, 2025
-**Project Repository**: https://github.com/niwaifiok-arch/sentiment-analysis-bert
